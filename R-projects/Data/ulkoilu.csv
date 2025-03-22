@@ -1,0 +1,11 @@
+Leiki,Ulkoilma,Lampotila,Kosteus,Tuuli
+kyllä,sateista,koleaa,normaali,FALSE
+ei,sateista,koleaa,normaali,TRUE
+kyllä,pilvistä,kuuma,kosteaa,FALSE
+ei,aurinkoista,sopiva,kosteaa,FALSE
+kyllä,sateista,kolea,normaali,FALSE
+kyllä,aurinkoista,kolea,normaali,FALSE
+kyllä,sateista,kolea,normaali,FALSE
+kyllä,aurinkoista,kuuma,normaali,FALSE
+kyllä,pilvistä,lauhkeaa,kosteaa,TRUE
+ei,aurinkoista,lauhkeaa,kosteaa,TRUE
