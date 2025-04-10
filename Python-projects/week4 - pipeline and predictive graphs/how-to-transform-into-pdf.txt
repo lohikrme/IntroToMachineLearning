@@ -1,0 +1,10 @@
+# super short guide to how i transformed md and ipynb into a pdf:
+
+# for md, i installed markdown viewer extension in vs code
+# then, i right click inside markdown editor, and selected export pdf
+
+# for ipynb, i installed jupyter extension in vs code
+# then, in git bash next command to first transform into html:
+# jupyter nbconvert --to html week1-exercises-matpytplot2.ipynb
+# then, open the html website with live view server into browser
+# and inside browser save the website as a pdf!
